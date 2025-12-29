@@ -1,0 +1,13 @@
+[
+  {
+    "delayTime": 186,
+    "executionTime": 23633,
+    "id": "sync-8b03ed8a-0a4e-4c2f-bde4-16b099249979-u1",
+    "output": {
+      "cost": 0.14,
+      "result": "https://image.runpod.ai/nano-banana-pro-edit/6f15b6e6ea1c496db7a4305ed7f85d4a/result.jpg"
+    },
+    "status": "COMPLETED",
+    "workerId": "414g38aeoc9n5l"
+  }
+]
