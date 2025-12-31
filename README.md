@@ -17,3 +17,9 @@ Local edit example:
 ```bash
 node i2i "./room.png,./chair.png" "Add warm lighting" pruna/p-image-edit
 ```
+
+## Serverless
+
+```bash
+node curl "./room.png" "A futuristic city at night"
+```
